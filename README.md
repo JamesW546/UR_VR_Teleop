@@ -7,7 +7,7 @@ This repository contains a ROS2 Python package `ur3_controller` that enables tel
 
 ### System Requirements
 - Ubuntu 22.04 LTS
-- ROS2 Humble
+- ROS2
 - Python 3.10+
 
 **Note**: This project was developed and tested on Ubuntu 22 Humble + ROS2. Using the same system versions is recommended for successful operation.
@@ -55,7 +55,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ### 系统要求
 - Ubuntu 22.04 LTS
-- ROS2 Humble
+- ROS2
 - Python 3.10+
 
 **注意**：本项目在 Ubuntu 22 Humble + ROS2 环境下开发和测试，建议使用相同系统版本以保证成功运行。
