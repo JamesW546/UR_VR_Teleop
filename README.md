@@ -10,7 +10,7 @@ This repository contains a ROS2 Python package `ur3_controller` that enables tel
 - ROS2 Humble
 - Python 3.10+
 
-**Note**: This project was developed and tested on Ubuntu 22 + ROS2 Humble. Using the same system versions is recommended for successful operation.
+**Note**: This project was developed and tested on Ubuntu 22 Humble + ROS2. Using the same system versions is recommended for successful operation.
 
 ### Package Structure
 - `src/ur3_controller/`: main ROS2 package containing node scripts and package configuration
@@ -58,7 +58,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 - ROS2 Humble
 - Python 3.10+
 
-**注意**：本项目在 Ubuntu 22 + ROS2 Humble 环境下开发和测试，建议使用相同系统版本以保证成功运行。
+**注意**：本项目在 Ubuntu 22 Humble + ROS2 环境下开发和测试，建议使用相同系统版本以保证成功运行。
 
 ### 包结构
 - `src/ur3_controller/`：主要的 ROS2 包，包含节点脚本和包配置
