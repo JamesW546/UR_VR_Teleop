@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# ROS / colcon
+build/
+install/
+log/
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Keys and certificates
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Local config files
+config.yaml
+config.json
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backup files
+*~
+*.bak
